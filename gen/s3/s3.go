@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/awslabs/aws-sdk-go/aws"
-	"github.com/awslabs/aws-sdk-go/gen/endpoints"
+	"github.com/iugomobile/aws-sdk-go/aws"
+	"github.com/iugomobile/aws-sdk-go/gen/endpoints"
 )
 
 import (
